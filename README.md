@@ -8,9 +8,9 @@
 
 
 ### 🌸 About Me  
-- 🎓 Student from Belgium 
+- 🎓 IT Student from Belgium 
 - 💻 Passionate about making cool projects 
-- 🌱 Craving for knowledge and improvement  
+- 🌱 Craving for general knowledge and improvement  
 - ☁️ Dreaming big and chasing growth every day  
 
 

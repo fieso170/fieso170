@@ -41,9 +41,9 @@
 
 ### ✨ GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fieso170&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://gifdb.com/images/high/cute-frieren-hands-on-chin-e04vjg8ov2iur310.webp" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fieso170&theme=dracula" height="160"/>
+  <img src="https://gifdb.com/images/high/cute-frieren-hands-on-chin-e04vjg8ov2iur310.webp" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fieso170&layout=compact&theme=dracula" height="160"/>
 </p>
 
 ---
